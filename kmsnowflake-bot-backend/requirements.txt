@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-httpx
-openai  # or anthropic if you're using Claude
-python-dotenv
-snowflake-connector-python
